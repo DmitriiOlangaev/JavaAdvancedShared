@@ -17,5 +17,10 @@
         <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.concurrent" />
+    <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.crawler" />
+    <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.hello" />
+    <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.implementor" />
+    <orderEntry type="module" module-name="info.kgeorgiy.java.advanced.mapper" />
   </component>
 </module>
