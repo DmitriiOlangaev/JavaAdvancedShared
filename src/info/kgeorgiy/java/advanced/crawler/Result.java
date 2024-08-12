@@ -1,7 +1,8 @@
 package info.kgeorgiy.java.advanced.crawler;
 
 import java.io.IOException;
-import java.util.*;
+import java.util.List;
+import java.util.Map;
 
 /**
  * Crawling result.
