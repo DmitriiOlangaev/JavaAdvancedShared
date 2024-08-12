@@ -28,6 +28,10 @@
 * [Клиент](modules/info.kgeorgiy.java.advanced.hello/info/kgeorgiy/java/advanced/hello/HelloClientTest.java)
 * [Сервер](modules/info.kgeorgiy.java.advanced.hello/info/kgeorgiy/java/advanced/hello/HelloServerTest.java)
 
+Решение:
+* [Клиент](src/info/kgeorgiy/ja/olangaev/hello/HelloUDPClient.java)
+* [Сервер](src/info/kgeorgiy/ja/olangaev/hello/HelloUDPServer.java)
+
 
 ## Домашнее задание 8. Web Crawler
 
@@ -46,6 +50,9 @@
 
 Тестовый модуль: [info.kgeorgiy.java.advanced.crawler](artifacts/info.kgeorgiy.java.advanced.crawler.jar)
 
+Решение:
+* [WebCrawler](src/info/kgeorgiy/ja/olangaev/crawler/WebCrawler.java)
+
 
 ## Домашнее задание 7. Параллельный запуск
 
@@ -58,6 +65,9 @@
     [тесты](modules/info.kgeorgiy.java.advanced.mapper/info/kgeorgiy/java/advanced/mapper/AdvancedMapperTest.java)
 
 Тестовый модуль: [info.kgeorgiy.java.advanced.mapper](artifacts/info.kgeorgiy.java.advanced.mapper.jar)
+
+Решение:
+* [ParallelMapper](src/info/kgeorgiy/ja/olangaev/concurrent/ParallelMapperImpl.java)
 
 
 ## Домашнее задание 6. Итеративный параллелизм
@@ -77,7 +87,8 @@
       [AdvancedIP](modules/info.kgeorgiy.java.advanced.concurrent/info/kgeorgiy/java/advanced/concurrent/AdvancedIP.java).
     * [тесты](modules/info.kgeorgiy.java.advanced.concurrent/info/kgeorgiy/java/advanced/concurrent/AdvancedIPTest.java)
 
-    
+Решение:
+* [IterativeParallelism](src/info/kgeorgiy/ja/olangaev/concurrent/IterativeParallelism.java)
 
 ## Домашнее задание 4. Implementor
 
@@ -95,4 +106,5 @@
  * предварительные тесты бонусного варианта (`covariant`):
     [тесты](modules/info.kgeorgiy.java.advanced.implementor/info/kgeorgiy/java/advanced/implementor/AdvancedImplementorTest.java)
 
-
+Решение:
+* [Implementor](src/info/kgeorgiy/ja/olangaev/implementor/Implementor.java)
