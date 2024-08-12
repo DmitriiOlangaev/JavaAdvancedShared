@@ -1,4 +1,4 @@
-# Тесты к курсу «Технологии Java»
+# Мои решения курса «Технологии Java»
 
 [Условия домашних заданий](https://www.kgeorgiy.info/courses/java-advanced/homeworks.html)
 
